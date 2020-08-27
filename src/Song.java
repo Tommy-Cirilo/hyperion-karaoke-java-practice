@@ -40,7 +40,7 @@ public class Song {
 
     public static List<String> parseLyrics(String lyrics) {
         //Isn't it ironic don't you think
-        //--->> "isnt" "it" "ironic" ....
+        //--->> "isn't" "it" "ironic" ....
         //transforms into a string list, so it needs a return type "List<String>
         List<String> lyricList = new ArrayList<>();
 
